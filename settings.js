@@ -9,8 +9,8 @@ global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
 global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '237672080608' //ur owner number
-global.ownername = '𓆩ᬼ⃟𝗚𝗢𝗗⛃⃟༄𝐌𝐈𝐆𝐇𝐓𝐘᭄亗𝐒𝐀𝐒𝐀𝐊𝐈亗࿐' //ur owner name
+global.ownernumber = '237694722989' //ur owner number
+global.ownername = 'KARMAEL TYRANT ' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
@@ -19,8 +19,8 @@ global.botscript = 'https://github.com/Elite-MD/Elite-Pro-V2' //script link
 global.packname = "Sticker By"
 global.author = "ELITE-PRO-V2\n\n+2348109263390"
 global.creator = "2348109263390@s.whatsapp.net"
-global.xprefix = '✓'
-global.premium = ["237672080608"] // Premium User
+global.xprefix = '.'
+global.premium = ["237694722989"] // Premium User
 global.hituet = 0
 //Stop here don't exceeds'-----------------
 
